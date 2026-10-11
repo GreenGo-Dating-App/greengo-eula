@@ -1,0 +1,403 @@
+CONTRATTO DI LICENZA PER L'UTENTE FINALE (EULA) DI GREENGO
+
+Versione: 5.0.0
+Data di entrata in vigore: 11 ottobre 2026
+Sostituisce: EULA del 17 giugno 2026
+
+================================================================================
+1. CON CHI È CONCLUSO QUESTO CONTRATTO
+================================================================================
+
+1.1 Il presente Contratto di licenza per l'utente finale ("EULA") è concluso tra
+te e:
+
+  Universo Kardasha Ltda.
+  CNPJ 40.486.663/0001-82
+  Av. Dona Helena Pereira de Moraes, 290, Sao Paulo - SP, 05707-400, Brazil
+  support@greengochat.com - +55 11 911142911
+  ("GreenGo", "noi", "ci", il "Licenziante")
+
+1.2 Riguarda l'applicazione GreenGo per iOS e Android e i relativi
+aggiornamenti (l'"App").
+
+1.3 Il presente EULA è concluso esclusivamente tra te e GreenGo. NON è concluso
+con Apple Inc. ("Apple") o Google LLC ("Google"). GreenGo, e non Apple o
+Google, è l'unica responsabile dell'App e dei suoi contenuti.
+
+1.4 L'uso dei servizi GreenGo tramite l'App è disciplinato anche da:
+- i Termini e Condizioni di GreenGo (https://greengochat.com/terms-of-service);
+- l'Informativa sulla privacy di GreenGo (https://greengochat.com/privacy-policy).
+
+In caso di divergenza tra il presente EULA e i Termini e Condizioni,
+prevalgono i Termini e Condizioni, ad eccezione delle sezioni 10 e 11 del
+presente EULA, che prevalgono per gli utenti dell'App Store.
+
+================================================================================
+2. LICENZA
+================================================================================
+
+2.1 GreenGo ti concede una licenza personale, non esclusiva, non trasferibile,
+non sublicenziabile e revocabile per scaricare, installare e usare l'App, nel
+rispetto del presente EULA:
+a) su qualsiasi prodotto a marchio Apple di cui sei proprietario o che
+   controlli, come consentito dalle Regole di utilizzo dei Termini e
+   Condizioni dei Servizi multimediali Apple (Apple Media Services Terms and
+   Conditions). L'App può essere usata anche da altri account a te associati
+   tramite In famiglia (Family Sharing) o acquisti in volume;
+b) su qualsiasi dispositivo Android di cui sei proprietario o che controlli,
+   come consentito dai Termini di servizio di Google Play.
+
+2.2 Non puoi:
+- copiare, modificare, tradurre o creare opere derivate dell'App;
+- decodificare (reverse engineering), decompilare o disassemblare l'App, salvo
+  nella misura in cui la legge lo consenta nonostante questa restrizione;
+- noleggiare, concedere in locazione, prestare, vendere, ridistribuire o
+  concedere in sublicenza l'App;
+- rimuovere qualsiasi avviso di proprietà;
+- usare l'App per sviluppare un prodotto concorrente o per estrarre dati
+  (scraping).
+
+2.3 Tutti i diritti non espressamente concessi sono riservati. L'App è concessa
+in licenza, non venduta.
+
+================================================================================
+3. ETÀ
+================================================================================
+
+Devi avere almeno 18 anni per creare un account e usare l'App. L'App è
+classificata per adulti. Al momento della registrazione ti chiediamo la data
+di nascita e gli utenti di età inferiore ai 18 anni vengono bloccati.
+
+================================================================================
+4. MONETE, ABBONAMENTI E ACQUISTI
+================================================================================
+
+4.1 Acquisti in-app
+Gli acquisti nell'App (Monete e Abbonamenti) vengono effettuati tramite:
+- Apple In-App Purchase, su iOS;
+- Google Play Billing, su Android.
+
+Si applicano le relative condizioni di pagamento. Non vediamo mai i dati della
+tua carta.
+
+4.2 Acquisti sul web
+Gli acquisti sul sito web o sulla web app di GreenGo vengono effettuati tramite
+Stripe. Sono disciplinati dai Termini e Condizioni.
+
+4.3 Monete
+- Le Monete non scadono mai.
+- Le Monete non hanno valore monetario e non possono essere convertite in
+  denaro.
+- Le Monete possono essere trasferite solo con la funzione regalo dell'App,
+  secondo le relative regole (incluso un blocco di 72 ore sulle Monete
+  acquistate).
+- Le Monete vengono rimosse se l'acquisto viene rimborsato o stornato
+  (chargeback).
+
+La sezione 8 dei Termini e Condizioni contiene le regole complete. Le Monete
+non vengono mai perse a causa dell'inattività di un account.
+
+4.4 Abbonamenti
+- Gli Abbonamenti si rinnovano automaticamente fino alla disdetta. Nell'App,
+  disdici almeno 24 ore prima della fine del periodo in corso nelle
+  impostazioni degli abbonamenti del tuo ID Apple o di Google Play.
+- Il rinnovo viene addebitato sul tuo account nelle 24 ore precedenti la fine
+  del periodo.
+- L'eliminazione dell'App non annulla un abbonamento.
+
+4.5 Rimborsi
+- Per gli acquisti nell'App, i rimborsi sono gestiti da Apple o Google secondo
+  le loro politiche e la normativa a tutela dei consumatori a te applicabile.
+- I Termini e Condizioni illustrano i tuoi diritti di recesso (14 giorni
+  nell'UE, nel SEE e nel Regno Unito; 7 giorni in Brasile) e gli effetti dei
+  rimborsi su Monete e Abbonamenti.
+
+================================================================================
+5. USO CONSENTITO E CONTENUTI
+================================================================================
+
+5.1 Devi rispettare le regole di condotta previste dai Termini e Condizioni
+(sezione 16). In particolare, non devi acquisire screenshot o registrazioni
+di foto private, contenuti multimediali delle chat o dati personali di altri
+utenti, né salvarli, condividerli o pubblicarli, senza il loro consenso
+(sezione 16.9).
+
+5.2 I contenuti sessualmente espliciti non sono consentiti in nessuna parte
+dell'App, comprese le chat private e gli album privati.
+
+5.3 GreenGo applica la tolleranza zero nei confronti dello sfruttamento
+sessuale dei minori. Lo segnaliamo al NCMEC e alle autorità competenti.
+
+5.4 GreenGo è un servizio di scoperta sociale e culturale. Non deve essere
+usato per cercare incontri sessuali o per offrire servizi sessuali.
+
+5.5 L'App ti consente di segnalare e bloccare utenti e Contenuti. Esaminiamo le
+segnalazioni e interveniamo come descritto nei Termini e Condizioni (sezioni 17
+e 18).
+
+5.6 Mantieni la titolarità dei tuoi Contenuti. Ci concedi la licenza limitata
+prevista dalla sezione 15 dei Termini e Condizioni. Usiamo i tuoi Contenuti a
+fini pubblicitari solo con il tuo consenso separato.
+
+================================================================================
+6. PRIVACY
+================================================================================
+
+6.1 L'Informativa sulla privacy spiega come trattiamo i dati personali.
+Riguarda:
+- il titolare del trattamento;
+- il nostro Encarregado / responsabile della protezione dei dati;
+- i nostri rappresentanti nell'UE e nel Regno Unito (in corso di nomina);
+- i responsabili del trattamento di cui ci avvaliamo, compresi i fornitori di
+  IA;
+- i trasferimenti internazionali;
+- la conservazione;
+- i tuoi diritti.
+
+6.2 Puoi eliminare il tuo account nell'App oppure su
+https://greengochat.com/delete-account.
+
+================================================================================
+7. FUNZIONI DI IA
+================================================================================
+
+7.1 L'App offre funzioni di intelligenza artificiale (IA):
+- traduzione;
+- sintesi vocale (text-to-speech);
+- risposte intelligenti e assistenza grammaticale;
+- un coach IA;
+- trascrizione vocale;
+- un assistente di supporto IA, chiaramente identificato come tale.
+
+Queste funzioni passano attraverso i server di GreenGo utilizzando servizi di
+Google e Anthropic e vengono usate solo dopo il tuo consenso.
+
+7.2 I risultati dell'IA possono essere inesatti. Non farvi affidamento per
+decisioni importanti.
+
+================================================================================
+8. AGGIORNAMENTI E DISPONIBILITÀ
+================================================================================
+
+8.1 Possiamo rilasciare aggiornamenti per risolvere problemi, migliorare la
+sicurezza o aggiungere funzioni. Alcuni aggiornamenti potrebbero essere
+necessari per continuare a usare l'App. Supportiamo l'App per tutto il tempo in
+cui la offriamo.
+
+8.2 Non garantiamo che l'App sia sempre disponibile o priva di errori.
+Correggeremo i difetti entro un termine ragionevole, come previsto dalla legge.
+
+================================================================================
+9. LA NOSTRA RESPONSABILITÀ
+================================================================================
+
+9.1 Forniamo l'App con ragionevole cura e perizia. Se l'App non funziona come
+descritto, disponi dei rimedi che la legge ti riconosce.
+
+9.2 Non siamo responsabili per perdite non prevedibili o causate da eventi al
+di fuori del nostro ragionevole controllo.
+
+9.3 Nessuna disposizione del presente EULA limita o esclude la nostra
+responsabilità per:
+- morte o lesioni personali causate da nostra negligenza;
+- frode;
+- colpa grave o dolo;
+- qualsiasi responsabilità che non può essere limitata o esclusa per legge,
+  anche ai sensi del Codice brasiliano di tutela dei consumatori (CDC) e delle
+  leggi a tutela dei consumatori del tuo paese.
+
+9.4 Nessuna disposizione del presente EULA pregiudica i diritti che la legge ti
+riconosce in quanto consumatore.
+
+================================================================================
+10. APPLE: CONDIZIONI OBBLIGATORIE (UTENTI DELL'APP STORE)
+================================================================================
+
+Se hai scaricato l'App dall'Apple App Store, si applica anche quanto segue.
+In caso di conflitto con qualsiasi altra disposizione del presente EULA, nei
+tuoi confronti prevale quanto segue.
+
+10.1 Riconoscimento
+Tu e GreenGo riconoscete che:
+- il presente EULA è concluso esclusivamente tra te e GreenGo, e non con Apple;
+- GreenGo, e non Apple, è l'unica responsabile dell'App e dei suoi contenuti.
+
+10.2 Ambito della licenza
+La licenza che ti viene concessa è limitata a una licenza non trasferibile di
+utilizzo dell'App su qualsiasi prodotto a marchio Apple di cui sei proprietario
+o che controlli, come consentito dalle Regole di utilizzo dei Termini e
+Condizioni dei Servizi multimediali Apple (Apple Media Services Terms and
+Conditions). L'App può essere consultata e usata anche da altri account a te
+associati tramite In famiglia (Family Sharing) o acquisti in volume.
+
+10.3 Manutenzione e assistenza
+GreenGo è l'unica responsabile della fornitura di qualsiasi servizio di
+manutenzione e assistenza per l'App, come specificato nel presente EULA o come
+richiesto dalla legge applicabile. Apple non ha alcun obbligo di fornire
+servizi di manutenzione e assistenza per l'App.
+
+10.4 Garanzia
+GreenGo è l'unica responsabile di qualsiasi garanzia sul prodotto, espressa o
+implicita per legge, nella misura in cui non sia stata validamente esclusa. Se
+l'App non è conforme a una qualsiasi garanzia applicabile:
+- puoi informarne Apple, e Apple ti rimborserà l'eventuale prezzo di acquisto
+  dell'App;
+- nella misura massima consentita dalla legge applicabile, Apple non avrà
+  alcun altro obbligo di garanzia in relazione all'App;
+- qualsiasi altro reclamo, perdita, responsabilità, danno, costo o spesa
+  attribuibile alla mancata conformità a una qualsiasi garanzia è di esclusiva
+  responsabilità di GreenGo.
+
+10.5 Reclami relativi al prodotto
+GreenGo, e non Apple, è responsabile della gestione di qualsiasi reclamo
+presentato da te o da terzi in relazione all'App o al tuo possesso e/o uso
+dell'App, inclusi, a titolo esemplificativo ma non esaustivo:
+(i) i reclami per responsabilità da prodotto;
+(ii) qualsiasi reclamo secondo cui l'App non è conforme a un requisito legale
+     o regolamentare applicabile;
+(iii) i reclami derivanti dalla normativa a tutela dei consumatori, in materia
+     di privacy o da normative analoghe, anche in relazione all'uso da parte
+     dell'App dei framework HealthKit e HomeKit (che l'App non utilizza).
+
+10.6 Diritti di proprietà intellettuale
+In caso di reclamo di terzi secondo cui l'App, o il tuo possesso e uso
+dell'App, violano i diritti di proprietà intellettuale di tali terzi, GreenGo,
+e non Apple, sarà l'unica responsabile delle indagini, della difesa, della
+transazione e della definizione di tale reclamo.
+
+10.7 Conformità legale
+Dichiari e garantisci che:
+(i) non ti trovi in un paese soggetto a embargo da parte del Governo degli
+    Stati Uniti o designato dal Governo degli Stati Uniti come paese che
+    "sostiene il terrorismo";
+(ii) non sei incluso in alcun elenco del Governo degli Stati Uniti di soggetti
+    vietati o sottoposti a restrizioni.
+
+10.8 Nome e indirizzo dello sviluppatore
+Domande, reclami o pretese relativi all'App devono essere inviati a:
+  Universo Kardasha Ltda., Av. Dona Helena Pereira de Moraes, 290,
+  Sao Paulo - SP, 05707-400, Brazil; support@greengochat.com;
+  +55 11 911142911.
+
+10.9 Condizioni di terzi
+Quando usi l'App devi rispettare le condizioni contrattuali di terzi
+applicabili. Ad esempio, non devi violare il tuo contratto per il servizio di
+dati wireless.
+
+10.10 Terzo beneficiario
+Tu e GreenGo riconoscete e accettate che:
+- Apple e le società controllate da Apple sono terzi beneficiari del presente
+  EULA;
+- con la tua accettazione del presente EULA, Apple avrà il diritto (e si
+  considererà che abbia accettato il diritto) di far valere il presente EULA
+  nei tuoi confronti in qualità di terzo beneficiario.
+
+================================================================================
+11. GOOGLE PLAY
+================================================================================
+
+Se hai scaricato l'App da Google Play:
+- si applicano anche i Termini di servizio di Google Play;
+- Google non è parte del presente EULA e non è responsabile dell'App;
+- Google Play gestisce i rimborsi e le controversie relative agli acquisti
+  effettuati tramite Google Play Billing, secondo le proprie politiche e la
+  legge.
+
+================================================================================
+12. DURATA E RISOLUZIONE
+================================================================================
+
+12.1 Il presente EULA si applica finché tu o noi non vi poniamo fine.
+
+12.2 Puoi porvi fine in qualsiasi momento eliminando il tuo account e l'App.
+
+12.3 Possiamo porvi fine, o sospendere il tuo accesso, per i motivi e con le
+modalità descritti nella sezione 20 dei Termini e Condizioni. Ciò include una
+motivazione e il diritto di presentare ricorso.
+
+12.4 Alla cessazione del presente EULA, la tua licenza cessa e devi smettere di
+usare l'App. Le sezioni 2.2, 9, 10, 13 e 14 continuano ad applicarsi.
+
+================================================================================
+13. CONTROLLI SULLE ESPORTAZIONI E SANZIONI
+================================================================================
+
+Devi rispettare le leggi applicabili in materia di controllo delle esportazioni
+e di sanzioni, comprese quelle del Brasile, dell'Unione europea, del Regno
+Unito e degli Stati Uniti.
+
+================================================================================
+14. LEGGE APPLICABILE E CONTROVERSIE
+================================================================================
+
+14.1 Il presente EULA è disciplinato dalle leggi del Brasile. Non si applica la
+Convenzione delle Nazioni Unite sui contratti di compravendita internazionale
+di merci.
+
+14.2 Se sei un consumatore, conservi la tutela delle norme imperative del paese
+in cui vivi e puoi avviare un procedimento dinanzi ai tribunali di tale paese:
+- Brasile: CDC art. 101, I;
+- UE e SEE: Roma I art. 6 e Bruxelles I bis art. 18;
+- Regno Unito e altri paesi: le tue norme imperative locali.
+
+14.3 Nessuna disposizione del presente EULA:
+- impone il ricorso all'arbitrato;
+- comporta la rinuncia alle azioni collettive consentite dalla legge;
+- abbrevia i termini previsti dalla legge.
+
+================================================================================
+15. MODIFICHE
+================================================================================
+
+15.1 Possiamo aggiornare il presente EULA quando cambiano l'App, la legge o i
+requisiti degli store.
+
+15.2 Per le modifiche importanti:
+- te ne informiamo con almeno 30 giorni di anticipo e ti chiediamo di
+  accettarle nell'App;
+- se non le accetti, puoi porre fine al presente EULA e al tuo account prima
+  che la modifica si applichi, come descritto nella sezione 24 dei Termini e
+  Condizioni.
+
+15.3 Il tuo silenzio o il solo uso continuato non sono considerati
+accettazione di una modifica importante.
+
+================================================================================
+16. DISPOSIZIONI GENERALI
+================================================================================
+
+16.1 Se una parte del presente EULA viene dichiarata invalida, la parte
+restante continua ad applicarsi.
+
+16.2 Se non facciamo valere immediatamente un diritto, non lo perdiamo.
+
+16.3 Possiamo trasferire il presente EULA nell'ambito di una fusione, vendita o
+riorganizzazione, purché i tuoi diritti non vengano ridotti. Tu non puoi
+trasferirlo.
+
+16.4 Lingua
+- Il presente EULA è disponibile nelle stesse lingue dei Termini e Condizioni.
+- Ove previsto dalla legge, prevale la versione nella lingua ufficiale del tuo
+  paese. In caso contrario prevale la versione inglese.
+
+================================================================================
+17. CONTATTI
+================================================================================
+
+Universo Kardasha Ltda. - CNPJ 40.486.663/0001-82
+Av. Dona Helena Pereira de Moraes, 290, Sao Paulo - SP, 05707-400, Brazil
+Assistenza: support@greengochat.com - Privacy: privacy@greengochat.com
+Legale: legal@greengochat.com - Web: https://greengochat.com
+
+================================================================================
+CRONOLOGIA DELLE VERSIONI
+================================================================================
+
+5.0.0 - 11 ottobre 2026
+Riscrittura completa: un unico licenziante (Universo Kardasha Ltda.),
+condizioni obbligatorie di Apple e Google, Monete e Abbonamenti allineati ai
+Termini e Condizioni, funzioni di IA, eliminazione dell'account, tutela dei
+diritti dei consumatori, uso improprio dei contenuti di altri utenti (sezione
+16.9 dei Termini).
+
+(c) 2026 Universo Kardasha Ltda. Tutti i diritti riservati.
