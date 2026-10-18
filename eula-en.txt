@@ -98,7 +98,7 @@ forfeited because an account is inactive.
 - Deleting the App does not cancel a subscription.
 - There is no free trial for Memberships, in the App or on the web. The only
   introductory offer is the 2026 launch price: new subscribers who subscribe
-  until 31 December 2026 get 50% off the first period (the first year of a
+  until 31 March 2027 get 50% off the first period (the first year of a
   yearly plan, or the first 3 months of a monthly plan), as the store shows
   it before you buy. Renewals are at the regular price.
 

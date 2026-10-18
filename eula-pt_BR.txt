@@ -104,7 +104,7 @@ são perdidas pelo fato de uma conta estar inativa.
 - Excluir o App não cancela uma assinatura.
 - Não existe período de teste gratuito para Assinaturas, nem no App nem na
   web. A única oferta introdutória é o preço de lançamento 2026: novos
-  assinantes que assinarem até 31 de dezembro de 2026 recebem 50% de desconto
+  assinantes que assinarem até 31 de março de 2027 recebem 50% de desconto
   no primeiro período (o primeiro ano de um plano anual, ou os 3 primeiros
   meses de um plano mensal), conforme a loja mostra antes da compra. As
   renovações são cobradas pelo preço normal.

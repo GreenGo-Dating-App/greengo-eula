@@ -106,7 +106,7 @@ non vengono mai perse a causa dell'inattività di un account.
 - L'eliminazione dell'App non annulla un abbonamento.
 - Non esiste una prova gratuita per gli Abbonamenti, né nell'App né sul web.
   L'unica offerta introduttiva è il prezzo di lancio 2026: i nuovi abbonati
-  che si abbonano entro il 31 dicembre 2026 ottengono il 50% di sconto sul
+  che si abbonano entro il 31 marzo 2027 ottengono il 50% di sconto sul
   primo periodo (il primo anno di un piano annuale, o i primi 3 mesi di un
   piano mensile), come lo store lo mostra prima dell'acquisto. I rinnovi
   avvengono al prezzo normale.

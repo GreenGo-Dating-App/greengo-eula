@@ -107,7 +107,7 @@ Regeln. Coins verfallen nie deshalb, weil ein Account inaktiv ist.
 - Das Löschen der App kündigt kein Abonnement.
 - Für Mitgliedschaften gibt es keinen kostenlosen Testzeitraum, weder in der
   App noch im Web. Das einzige Einführungsangebot ist der Einführungspreis
-  2026: Neue Abonnenten, die bis zum 31. Dezember 2026 abschließen,
+  2026: Neue Abonnenten, die bis zum 31. März 2027 abschließen,
   erhalten 50 % Rabatt auf den ersten Zeitraum (das erste Jahr eines
   Jahrestarifs oder die ersten 3 Monate eines Monatstarifs), so wie der Store
   es vor dem Kauf anzeigt. Verlängerungen erfolgen zum regulären Preis.

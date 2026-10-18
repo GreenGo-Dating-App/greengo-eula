@@ -101,7 +101,7 @@ Monedas nunca se pierden por la inactividad de una cuenta.
 - Eliminar la App no cancela una suscripción.
 - No hay prueba gratuita para las Suscripciones, ni en la App ni en la web.
   La única oferta introductoria es el precio de lanzamiento 2026: los nuevos
-  suscriptores que se suscriban hasta el 31 de diciembre de 2026 obtienen un
+  suscriptores que se suscriban hasta el 31 de marzo de 2027 obtienen un
   50 % de descuento en el primer periodo (el primer año de un plan anual o
   los 3 primeros meses de un plan mensual), según lo muestra la tienda antes
   de que compres. Las renovaciones se cobran al precio normal.

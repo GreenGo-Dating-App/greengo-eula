@@ -114,7 +114,7 @@ ne sont jamais perdues du fait de l'inactivité d'un compte.
 - La suppression de l'Application ne résilie pas un abonnement.
 - Les Abonnements ne comportent pas d'essai gratuit, ni dans l'Application ni
   sur le web. La seule offre de lancement est le prix de lancement 2026 : les
-  nouveaux abonnés qui s'abonnent jusqu'au 31 décembre 2026 bénéficient de
+  nouveaux abonnés qui s'abonnent jusqu'au 31 mars 2027 bénéficient de
   50 % de réduction sur la première période (la première année d'une formule
   annuelle, ou les 3 premiers mois d'une formule mensuelle), telle que la
   boutique l'affiche avant l'achat. Les renouvellements se font au prix
