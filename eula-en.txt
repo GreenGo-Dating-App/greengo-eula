@@ -96,10 +96,11 @@ forfeited because an account is inactive.
 - Your account is charged for renewal within the 24 hours before the period
   ends.
 - Deleting the App does not cancel a subscription.
-- Memberships bought in the App have no free trial. New subscribers who
-  subscribe until 31 December 2026 get 50% off the first period (the first
-  year of a yearly plan, or the first 3 months of a monthly plan), as the
-  store shows it before you buy. Renewals are at the regular price.
+- There is no free trial for Memberships, in the App or on the web. The only
+  introductory offer is the 2026 launch price: new subscribers who subscribe
+  until 31 December 2026 get 50% off the first period (the first year of a
+  yearly plan, or the first 3 months of a monthly plan), as the store shows
+  it before you buy. Renewals are at the regular price.
 
 4.5 Refunds
 - For App purchases, Apple or Google handle refunds under their policies and
@@ -373,8 +374,8 @@ VERSION HISTORY
 
 5.0.1 - 17 October 2026
 Clarifications to match how the App works:
-- Section 4.4: no free trial for Memberships bought in the App; the 2026
-  launch offer (50% off the first period).
+- Section 4.4: no free trial for Memberships, in the App or on the web; the
+  2026 launch offer (50% off the first period).
 - Section 7.1: the AI features are the same as in the Terms and Conditions
   (translation, text-to-speech, transliteration and the support assistant;
   the AI coach, grammar help, smart replies and voice transcription are not

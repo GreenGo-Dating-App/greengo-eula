@@ -105,8 +105,9 @@ Regeln. Coins verfallen nie deshalb, weil ein Account inaktiv ist.
 - Die Verlängerung wird deinem Account innerhalb der 24 Stunden vor Ende des
   Zeitraums berechnet.
 - Das Löschen der App kündigt kein Abonnement.
-- In der App gekaufte Mitgliedschaften haben keinen kostenlosen
-  Testzeitraum. Neue Abonnenten, die bis zum 31. Dezember 2026 abschließen,
+- Für Mitgliedschaften gibt es keinen kostenlosen Testzeitraum, weder in der
+  App noch im Web. Das einzige Einführungsangebot ist der Einführungspreis
+  2026: Neue Abonnenten, die bis zum 31. Dezember 2026 abschließen,
   erhalten 50 % Rabatt auf den ersten Zeitraum (das erste Jahr eines
   Jahrestarifs oder die ersten 3 Monate eines Monatstarifs), so wie der Store
   es vor dem Kauf anzeigt. Verlängerungen erfolgen zum regulären Preis.
@@ -408,8 +409,8 @@ VERSIONSHISTORIE
 
 5.0.1 - 17. Oktober 2026
 Klarstellungen, damit die Vereinbarung der Funktionsweise der App entspricht:
-- Abschnitt 4.4: kein kostenloser Testzeitraum für in der App gekaufte
-  Mitgliedschaften; das Einführungsangebot 2026 (50 % Rabatt auf den ersten
+- Abschnitt 4.4: kein kostenloser Testzeitraum für Mitgliedschaften, weder in
+  der App noch im Web; das Einführungsangebot 2026 (50 % Rabatt auf den ersten
   Zeitraum).
 - Abschnitt 7.1: Die KI-Funktionen sind dieselben wie in den Allgemeinen
   Geschäftsbedingungen (Übersetzung, Text-to-Speech, Transliteration und der

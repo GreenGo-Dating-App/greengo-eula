@@ -102,7 +102,8 @@ são perdidas pelo fato de uma conta estar inativa.
 - A renovação é cobrada da sua conta nas 24 horas anteriores ao fim do
   período.
 - Excluir o App não cancela uma assinatura.
-- As Assinaturas compradas no App não têm período de teste gratuito. Novos
+- Não existe período de teste gratuito para Assinaturas, nem no App nem na
+  web. A única oferta introdutória é o preço de lançamento 2026: novos
   assinantes que assinarem até 31 de dezembro de 2026 recebem 50% de desconto
   no primeiro período (o primeiro ano de um plano anual, ou os 3 primeiros
   meses de um plano mensal), conforme a loja mostra antes da compra. As
@@ -397,8 +398,8 @@ HISTÓRICO DE VERSÕES
 
 5.0.1 - 17 de outubro de 2026
 Esclarecimentos para refletir como o App funciona:
-- Item 4.4: sem período de teste gratuito para Assinaturas compradas no App;
-  a oferta de lançamento 2026 (50% de desconto no primeiro período).
+- Item 4.4: sem período de teste gratuito para Assinaturas, nem no App nem
+  na web; a oferta de lançamento 2026 (50% de desconto no primeiro período).
 - Item 7.1: os recursos de IA são os mesmos dos Termos e Condições (tradução,
   conversão de texto em fala, transliteração e o assistente de suporte; o
   coach de IA, a ajuda com gramática, as respostas inteligentes e a
