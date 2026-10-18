@@ -1,8 +1,8 @@
 CONTRATTO DI LICENZA PER L'UTENTE FINALE (EULA) DI GREENGO
 
-Versione: 5.0.0
-Data di entrata in vigore: 11 ottobre 2026
-Sostituisce: EULA del 17 giugno 2026
+Versione: 5.0.1
+Data di entrata in vigore: 17 ottobre 2026
+Sostituisce: versione 5.0.0 dell'11 ottobre 2026
 
 ================================================================================
 1. CON CHI È CONCLUSO QUESTO CONTRATTO
@@ -104,6 +104,11 @@ non vengono mai perse a causa dell'inattività di un account.
 - Il rinnovo viene addebitato sul tuo account nelle 24 ore precedenti la fine
   del periodo.
 - L'eliminazione dell'App non annulla un abbonamento.
+- Gli Abbonamenti acquistati nell'App non hanno una prova gratuita. I nuovi
+  abbonati che si abbonano entro il 31 dicembre 2026 ottengono il 50% di
+  sconto sul primo periodo (il primo anno di un piano annuale, o i primi
+  3 mesi di un piano mensile), come lo store lo mostra prima dell'acquisto. I
+  rinnovi avvengono al prezzo normale.
 
 4.5 Rimborsi
 - Per gli acquisti nell'App, i rimborsi sono gestiti da Apple o Google secondo
@@ -163,14 +168,16 @@ https://greengochat.com/delete-account.
 
 7.1 L'App offre funzioni di intelligenza artificiale (IA):
 - traduzione;
-- sintesi vocale (text-to-speech);
-- risposte intelligenti e assistenza grammaticale;
-- un coach IA;
-- trascrizione vocale;
+- sintesi vocale (text-to-speech, lettura vocale);
+- traslitterazione dei messaggi di chat scritti in alfabeti non latini;
 - un assistente di supporto IA, chiaramente identificato come tale.
 
-Queste funzioni passano attraverso i server di GreenGo utilizzando servizi di
-Google e Anthropic e vengono usate solo dopo il tuo consenso.
+Queste funzioni utilizzano servizi di Google e Anthropic. Trattano i tuoi
+contenuti privati solo dopo il tuo consenso. Passano attraverso i server di
+GreenGo, salvo che l'App può richiedere le traduzioni di contenuti pubblici
+(come eventi e annunci) direttamente al servizio di traduzione di Google. La
+sezione 14 dei Termini e Condizioni e la sezione 9 dell'Informativa sulla
+privacy contengono i dettagli.
 
 7.2 I risultati dell'IA possono essere inesatti. Non farvi affidamento per
 decisioni importanti.
@@ -392,6 +399,16 @@ Legale: legal@greengochat.com - Web: https://greengochat.com
 ================================================================================
 CRONOLOGIA DELLE VERSIONI
 ================================================================================
+
+5.0.1 - 17 ottobre 2026
+Chiarimenti per corrispondere al funzionamento dell'App:
+- Sezione 4.4: nessuna prova gratuita per gli Abbonamenti acquistati
+  nell'App; l'offerta di lancio 2026 (50% di sconto sul primo periodo).
+- Sezione 7.1: le funzioni di IA sono le stesse dei Termini e Condizioni
+  (traduzione, sintesi vocale, traslitterazione e assistente di supporto; il
+  coach IA, l'assistenza grammaticale, le risposte intelligenti e la
+  trascrizione vocale non sono offerti); i contenuti pubblici possono essere
+  tradotti direttamente dall'App.
 
 5.0.0 - 11 ottobre 2026
 Riscrittura completa: un unico licenziante (Universo Kardasha Ltda.),

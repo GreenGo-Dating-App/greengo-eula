@@ -1,8 +1,8 @@
 ENDNUTZER-LIZENZVEREINBARUNG (EULA) VON GREENGO
 
-Version: 5.0.0
-Gültig ab: 11. Oktober 2026
-Ersetzt: EULA vom 17. Juni 2026
+Version: 5.0.1
+Gültig ab: 17. Oktober 2026
+Ersetzt: Version 5.0.0 vom 11. Oktober 2026
 
 ================================================================================
 1. MIT WEM DU DIESE VEREINBARUNG SCHLIESST
@@ -105,6 +105,11 @@ Regeln. Coins verfallen nie deshalb, weil ein Account inaktiv ist.
 - Die Verlängerung wird deinem Account innerhalb der 24 Stunden vor Ende des
   Zeitraums berechnet.
 - Das Löschen der App kündigt kein Abonnement.
+- In der App gekaufte Mitgliedschaften haben keinen kostenlosen
+  Testzeitraum. Neue Abonnenten, die bis zum 31. Dezember 2026 abschließen,
+  erhalten 50 % Rabatt auf den ersten Zeitraum (das erste Jahr eines
+  Jahrestarifs oder die ersten 3 Monate eines Monatstarifs), so wie der Store
+  es vor dem Kauf anzeigt. Verlängerungen erfolgen zum regulären Preis.
 
 4.5 Erstattungen
 - Bei Käufen in der App bearbeiten Apple oder Google Erstattungen nach ihren
@@ -165,13 +170,15 @@ https://greengochat.com/delete-account.
 7.1 Die App bietet KI-Funktionen:
 - Übersetzung;
 - Text-to-Speech (Sprachausgabe);
-- intelligente Antwortvorschläge und Grammatikhilfe;
-- einen KI-Coach;
-- Sprachtranskription;
+- Transliteration von Chatnachrichten in nicht-lateinischen Schriften;
 - einen als solchen gekennzeichneten KI-Support-Assistenten.
 
-Diese laufen über die Server von GreenGo unter Nutzung von Diensten von Google
-und Anthropic und werden erst nach deiner Einwilligung verwendet.
+Diese nutzen Dienste von Google und Anthropic. Deine privaten Inhalte
+verarbeiten sie erst nach deiner Einwilligung. Sie laufen über die Server von
+GreenGo, mit einer Ausnahme: Die App kann Übersetzungen öffentlicher Inhalte
+(etwa Events und Angebote) direkt beim Übersetzungsdienst von Google
+anfordern. Einzelheiten findest du in Abschnitt 14 der Allgemeinen
+Geschäftsbedingungen und in Abschnitt 9 der Datenschutzerklärung.
 
 7.2 KI-Ergebnisse können ungenau sein. Verlasse dich bei wichtigen
 Entscheidungen nicht darauf.
@@ -398,6 +405,17 @@ Rechtliches: legal@greengochat.com - Web: https://greengochat.com
 ================================================================================
 VERSIONSHISTORIE
 ================================================================================
+
+5.0.1 - 17. Oktober 2026
+Klarstellungen, damit die Vereinbarung der Funktionsweise der App entspricht:
+- Abschnitt 4.4: kein kostenloser Testzeitraum für in der App gekaufte
+  Mitgliedschaften; das Einführungsangebot 2026 (50 % Rabatt auf den ersten
+  Zeitraum).
+- Abschnitt 7.1: Die KI-Funktionen sind dieselben wie in den Allgemeinen
+  Geschäftsbedingungen (Übersetzung, Text-to-Speech, Transliteration und der
+  Support-Assistent; KI-Coach, Grammatikhilfe, intelligente
+  Antwortvorschläge und Sprachtranskription werden nicht angeboten);
+  öffentliche Inhalte können direkt von der App übersetzt werden.
 
 5.0.0 - 11. Oktober 2026
 Vollständige Neufassung: ein einziger Lizenzgeber (Universo Kardasha Ltda.),

@@ -1,8 +1,8 @@
 GREENGO END-USER LICENSE AGREEMENT (EULA)
 
-Version: 5.0.0
-Effective date: 11 October 2026
-Replaces: EULA of 17 June 2026
+Version: 5.0.1
+Effective date: 17 October 2026
+Replaces: version 5.0.0 of 11 October 2026
 
 ================================================================================
 1. WHO THIS AGREEMENT IS WITH
@@ -96,6 +96,10 @@ forfeited because an account is inactive.
 - Your account is charged for renewal within the 24 hours before the period
   ends.
 - Deleting the App does not cancel a subscription.
+- Memberships bought in the App have no free trial. New subscribers who
+  subscribe until 31 December 2026 get 50% off the first period (the first
+  year of a yearly plan, or the first 3 months of a monthly plan), as the
+  store shows it before you buy. Renewals are at the regular price.
 
 4.5 Refunds
 - For App purchases, Apple or Google handle refunds under their policies and
@@ -150,14 +154,15 @@ https://greengochat.com/delete-account.
 
 7.1 The App offers AI features:
 - translation;
-- text-to-speech;
-- smart replies and grammar help;
-- an AI coach;
-- voice transcription;
+- text-to-speech (read-aloud);
+- transliteration of chat messages written in non-Latin scripts;
 - a labelled AI support assistant.
 
-These run through GreenGo's servers using Google and Anthropic services, and
-are used only after you consent.
+These use Google and Anthropic services. They process your private content
+only after you consent. They run through GreenGo's servers, except that the
+App may request translations of public content (such as events and listings)
+directly from Google's translation service. Section 14 of the Terms and
+Conditions and section 9 of the Privacy Policy have the details.
 
 7.2 AI output can be inaccurate. Do not rely on it for important decisions.
 
@@ -365,6 +370,15 @@ Legal: legal@greengochat.com - Web: https://greengochat.com
 ================================================================================
 VERSION HISTORY
 ================================================================================
+
+5.0.1 - 17 October 2026
+Clarifications to match how the App works:
+- Section 4.4: no free trial for Memberships bought in the App; the 2026
+  launch offer (50% off the first period).
+- Section 7.1: the AI features are the same as in the Terms and Conditions
+  (translation, text-to-speech, transliteration and the support assistant;
+  the AI coach, grammar help, smart replies and voice transcription are not
+  offered); public content may be translated directly by the App.
 
 5.0.0 - 11 October 2026
 Full rewrite: one licensor (Universo Kardasha Ltda.), Apple and Google
